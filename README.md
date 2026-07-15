@@ -3,7 +3,7 @@
 Sistem monitoring kualitas telur berbasis **ESP8266** dan **Firebase** yang membaca kondisi lingkungan penyimpanan telur secara real-time dan menampilkan status kesegaran ke dashboard.
 
 <!-- EDIT: ganti dengan screenshot dashboard/alat kamu. Taruh gambar di folder /assets lalu update path di bawah -->
-![Preview Project](assets/preview.png)
+![Preview Project](assets/pr.png)
 
 ---
 
