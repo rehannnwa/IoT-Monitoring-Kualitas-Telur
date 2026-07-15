@@ -33,14 +33,13 @@ Telur yang disimpan dalam waktu lama rentan mengalami penurunan kualitas akibat 
 
 ## 🔌 Skema Rangkaian
 
-<!-- EDIT: gambar fiks.png kamu cocok ditaruh di sini -->
 ![Skema Rangkaian](assets/fiks.png)
 
 ## 🚀 Cara Menjalankan
 
 1. Clone repository ini
    ```bash
-   git clone https://github.com/USERNAME-KAMU/NAMA-REPO.git
+   git clone https://github.com/rehannnwa/IoT-Monitoring-Kualitas-Telur.git
    ```
 2. Buka project menggunakan **Arduino IDE** atau **PlatformIO**
 3. Install library yang dibutuhkan:
